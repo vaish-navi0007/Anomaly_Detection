@@ -58,5 +58,6 @@ Contributions and suggestions are welcome! Feel free to open issues or submit pu
 Made with using Python and scikit-learn.
 
 ```
-
+##screenshots
+https://github.com/vaish-navi0007/Anomaly_Detection/issues/1#issue-3265167926
 
